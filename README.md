@@ -1,5 +1,5 @@
 # Password Validator
-
+![Alt Text](https://github.com/Uditsingh7/password_validator/blob/main/public/assets/Untitledvideo-MadewithClipchamp1-ezgif.com-video-to-gif-converter.gif)
 ## Overview
 The Password Validator project is a robust solution designed to assess the strength of user passwords and provide valuable feedback to enhance security measures. Leveraging Node.js and EJS templating, this project offers a seamless and intuitive user experience, empowering users to create stronger passwords.
 
