@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Strength Checker</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/zxcvbn/4.4.2/zxcvbn.js"></script>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Password Strength Checker</h1>
+        <form id="passwordForm">
+            <label for="passwordInput">Enter Password:</label>
+            <input type="password" id="passwordInput" name="passwordInput">
+            <button type="button" id="checkPasswordBtn">Check Password Strength</button>
+        </form>
+        <div id="validationResult"></div>
+    </div>
+    <script src="/js/script.js"></script>
+</body>
+
+</html>
